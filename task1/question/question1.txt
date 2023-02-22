@@ -1,0 +1,2 @@
+launch a blog via wordpress using docker-compose
+Persist your data, so you don't lose them in case of container restart
